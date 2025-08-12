@@ -43,10 +43,7 @@ You can **Add** and **Delete** tasks with ease.
 
 ---
 
-## Example Screenshot
-*(Optional: Add screenshot if available)*
 
----
 
 ## Author
-Created by **Your Name** for Java Swing practice.
+Created by ** sai prudhvi** for Java Swing practice.
