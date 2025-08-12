@@ -4,7 +4,7 @@
 A simple To-Do list desktop application built using Java Swing.  
 You can **Add** and **Delete** tasks with ease.
 
----
+--
 
 ## Tools Used
 - **Java** (JDK 8+)
